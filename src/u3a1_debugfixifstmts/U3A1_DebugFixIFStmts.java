@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author omora
+ * @author destry
  * @see 
  */
 public class U3A1_DebugFixIFStmts {
